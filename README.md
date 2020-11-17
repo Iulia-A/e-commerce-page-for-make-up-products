@@ -13,5 +13,8 @@ This project must have a menu with product categories such as “Fragrance”, �
 - For Body: - Body Care – Body Lotion, Body Cream
                      - Sop – Liquid Soaps, Bar Soaps
                      - Shower and Bath – Shower Gels, Bath Products
+                     
 For each category, there should be some products in database.
-Also, this e-commerce page should implement the Shopping Basket, create an account and login functionalities. There should be 3 different roles for users: 1) Member- which has an account; 2) Guest which does not have an account; 3) Admins. Guests and members can add products to cart, while admins can add new products on page. 
+
+Also, this e-commerce page should implement the Shopping Basket, create an account and login functionalities. 
+There should be 3 different roles for users: 1) Member- which has an account; 2) Guest which does not have an account; 3) Admins. Guests and members can add products to cart, while admins can add new products on page. 
