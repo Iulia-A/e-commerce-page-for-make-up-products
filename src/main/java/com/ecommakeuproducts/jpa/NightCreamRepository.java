@@ -1,8 +1,6 @@
-package com.ecommakeuproducts.repository;
+package com.ecommakeuproducts.jpa;
 
 import org.springframework.data.repository.CrudRepository;
-
-import com.ecommakeuproducts.jpa.NightCream;
 
 public interface NightCreamRepository extends CrudRepository<NightCream, Long>{
 

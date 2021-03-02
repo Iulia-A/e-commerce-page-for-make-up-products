@@ -10,7 +10,7 @@ import javax.persistence.Table;
 import org.hibernate.annotations.ColumnDefault;
 
 @Entity
-@Table(name = "skinProducts")
+//@Table(name = "skinProducts")
 public abstract class Skin {
 
 	@Id

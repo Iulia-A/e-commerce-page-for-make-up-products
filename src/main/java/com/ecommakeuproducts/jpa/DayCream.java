@@ -4,7 +4,7 @@ import javax.persistence.Entity;
 import javax.persistence.Table;
 
 @Entity
-@Table(name = "dayCreams")
+//@Table(name = "dayCreams")
 public class DayCream extends Skin {
 
 
@@ -12,6 +12,10 @@ public class DayCream extends Skin {
 			String currency, double size, String sizeMeasurement, String imagePath) {
 		super(id, brand, name, description, ingredients, price, currency, size, sizeMeasurement, imagePath);
 	
+	}
+
+	public DayCream() {
+		// TODO Auto-generated constructor stub
 	}
 
 	
